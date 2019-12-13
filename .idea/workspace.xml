@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ec6426-2fe0-4cf8-b034-ebccbbb3de1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UpkjKR6eFdMOeo5JWQcE2wbDIo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="headlines" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learning_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/headlines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.headlines" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ec6426-2fe0-4cf8-b034-ebccbbb3de1c" name="Default Changelist" comment="" />
+      <created>1576061057612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576061057612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1897" height="258" key="GridCell.Tab.0.bottom" timestamp="1576173713343">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.bottom/0.27.1920.992/0.27.1920.992@0.27.1920.992" timestamp="1576173713343" />
+    <state width="1897" height="258" key="GridCell.Tab.0.center" timestamp="1576173713343">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.center/0.27.1920.992/0.27.1920.992@0.27.1920.992" timestamp="1576173713343" />
+    <state width="1897" height="258" key="GridCell.Tab.0.left" timestamp="1576173713343">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.left/0.27.1920.992/0.27.1920.992@0.27.1920.992" timestamp="1576173713343" />
+    <state width="1897" height="258" key="GridCell.Tab.0.right" timestamp="1576173713343">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.right/0.27.1920.992/0.27.1920.992@0.27.1920.992" timestamp="1576173713343" />
+    <state x="449" y="158" key="SettingsEditor" timestamp="1576173710942">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state x="449" y="158" key="SettingsEditor/0.27.1920.992/0.27.1920.992@0.27.1920.992" timestamp="1576173710942" />
+    <state x="616" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1576233136558">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state x="616" y="349" key="com.intellij.ide.util.TipDialog/0.27.1920.992@0.27.1920.992" timestamp="1576233136558" />
+    <state x="704" y="397" width="716" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1576061122157">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state x="704" y="397" width="716" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1920.992/0.27.1920.992@0.27.1920.992" timestamp="1576061122157" />
+    <state x="623" y="254" key="search.everywhere.popup" timestamp="1576061139718">
+      <screen x="0" y="27" width="1920" height="992" />
+    </state>
+    <state x="623" y="254" key="search.everywhere.popup/0.27.1920.992/0.27.1920.992@0.27.1920.992" timestamp="1576061139718" />
+  </component>
+</project>
